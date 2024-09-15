@@ -1,0 +1,5 @@
+nlp_demo_app.py
+__pycache__/
+nltk_data/
+yourProjectName.inlang/
+.vscode

@@ -1,0 +1,17 @@
+streamlit==1.38.0
+langchain==0.2.16
+nltk==3.9.1
+langchain-community==0.2.16
+transformers==4.44.2
+sentencepiece==0.2.0
+spacy==3.8.0
+textblob==0.18.0.post0
+plotly==5.24.1
+matplotlib==3.9.2
+seaborn==0.13.2
+wordcloud==1.9.3
+scikit-learn==1.5.2
+umap-learn==0.5.6
+bokeh==2.4.3
+gensim==4.3.3
+rake-nltk==1.0.6
