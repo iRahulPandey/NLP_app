@@ -2,7 +2,7 @@
 name = "thebasicsllm"
 version = "0.1.0"
 description = "It's a demo app"
-authors = ["Rahul Pandey <rahul.pandey@adidas.com>"]
+authors = ["Rahul Pandey <rpandey1901@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
